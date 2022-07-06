@@ -1,3 +1,5 @@
+Готовый билд на [Vercel](https://datagile-test-6o9ggznv4-izzagold.vercel.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
