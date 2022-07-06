@@ -1,0 +1,1 @@
+export const WHICH_COUNTER_IS_RARE = 3

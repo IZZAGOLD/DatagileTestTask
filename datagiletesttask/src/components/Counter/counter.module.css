@@ -1,0 +1,18 @@
+.container {
+    padding: 5px 5px;
+    max-height: 75px;
+    border-radius: 8px;
+    border: 2px solid #fe6637;
+    margin: 10px 20px;
+
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contentNotRare {
+    display: flex;
+    justify-content: center;
+}
